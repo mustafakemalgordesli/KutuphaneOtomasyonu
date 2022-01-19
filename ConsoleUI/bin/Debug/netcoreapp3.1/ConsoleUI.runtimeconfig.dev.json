@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mkema\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mkema\\.nuget\\packages"
+    ]
+  }
+}

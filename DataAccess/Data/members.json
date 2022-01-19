@@ -1,0 +1,19 @@
+[
+    
+    {
+        "Id": 1,
+        "FirstName": "Mustafa Kemal",
+        "LastName": "G\u00F6rdesli",
+        "PhoneNumber": "6669008855",
+        "Email": "m.kemalgordesli@gmail.com",
+        "AdressDetails": "Mehmet Akif Ersoy cad. no:29 \u0130zmir/Kiraz"
+    },
+    {
+        "Id": 434346557,
+        "FirstName": "An\u0131l",
+        "LastName": "Taha",
+        "PhoneNumber": "5463339090",
+        "Email": "an\u0131l@taha.com.tr",
+        "AdressDetails": "Plevne Mah. No:20"
+    }
+]

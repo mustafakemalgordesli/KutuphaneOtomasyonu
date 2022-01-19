@@ -1,0 +1,16 @@
+C:\Users\mkema\OneDrive\Masaüstü\KutuphaneOtomasyonu\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\mkema\OneDrive\Masaüstü\KutuphaneOtomasyonu\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\mkema\OneDrive\Masaüstü\KutuphaneOtomasyonu\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\mkema\OneDrive\Masaüstü\KutuphaneOtomasyonu\Service\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\mkema\OneDrive\Masaüstü\KutuphaneOtomasyonu\Service\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\mkema\OneDrive\Masaüstü\KutuphaneOtomasyonu\Service\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\mkema\OneDrive\Masaüstü\KutuphaneOtomasyonu\Service\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\mkema\OneDrive\Masaüstü\KutuphaneOtomasyonu\Service\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\mkema\OneDrive\Masaüstü\KutuphaneOtomasyonu\Service\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\mkema\OneDrive\Masaüstü\KutuphaneOtomasyonu\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\Users\mkema\OneDrive\Masaüstü\KutuphaneOtomasyonu\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\mkema\OneDrive\Masaüstü\KutuphaneOtomasyonu\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\mkema\OneDrive\Masaüstü\KutuphaneOtomasyonu\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\mkema\OneDrive\Masaüstü\KutuphaneOtomasyonu\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+C:\Users\mkema\OneDrive\Masaüstü\KutuphaneOtomasyonu\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\mkema\OneDrive\Masaüstü\KutuphaneOtomasyonu\Service\obj\Debug\netcoreapp3.1\Service.pdb

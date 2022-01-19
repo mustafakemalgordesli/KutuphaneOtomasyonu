@@ -1,0 +1,155 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Core.dll": {}
+        }
+      },
+      "DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataAccess.dll": {}
+        }
+      },
+      "Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entities.dll": {}
+        }
+      },
+      "Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Core": "1.0.0",
+          "DataAccess": "1.0.0",
+          "Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Core/1.0.0": {
+      "type": "project",
+      "path": "../Core/Core.csproj",
+      "msbuildProject": "../Core/Core.csproj"
+    },
+    "DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../DataAccess/DataAccess.csproj",
+      "msbuildProject": "../DataAccess/DataAccess.csproj"
+    },
+    "Entities/1.0.0": {
+      "type": "project",
+      "path": "../Entities/Entities.csproj",
+      "msbuildProject": "../Entities/Entities.csproj"
+    },
+    "Service/1.0.0": {
+      "type": "project",
+      "path": "../Service/Service.csproj",
+      "msbuildProject": "../Service/Service.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Core >= 1.0.0",
+      "DataAccess >= 1.0.0",
+      "Entities >= 1.0.0",
+      "Service >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mkema\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\mkema\\OneDrive\\Masaüstü\\KutuphaneOtomasyonu\\ConsoleUI\\ConsoleUI.csproj",
+      "projectName": "ConsoleUI",
+      "projectPath": "C:\\Users\\mkema\\OneDrive\\Masaüstü\\KutuphaneOtomasyonu\\ConsoleUI\\ConsoleUI.csproj",
+      "packagesPath": "C:\\Users\\mkema\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mkema\\OneDrive\\Masaüstü\\KutuphaneOtomasyonu\\ConsoleUI\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\mkema\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\mkema\\OneDrive\\Masaüstü\\KutuphaneOtomasyonu\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\mkema\\OneDrive\\Masaüstü\\KutuphaneOtomasyonu\\Core\\Core.csproj"
+            },
+            "C:\\Users\\mkema\\OneDrive\\Masaüstü\\KutuphaneOtomasyonu\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\mkema\\OneDrive\\Masaüstü\\KutuphaneOtomasyonu\\DataAccess\\DataAccess.csproj"
+            },
+            "C:\\Users\\mkema\\OneDrive\\Masaüstü\\KutuphaneOtomasyonu\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\mkema\\OneDrive\\Masaüstü\\KutuphaneOtomasyonu\\Entities\\Entities.csproj"
+            },
+            "C:\\Users\\mkema\\OneDrive\\Masaüstü\\KutuphaneOtomasyonu\\Service\\Service.csproj": {
+              "projectPath": "C:\\Users\\mkema\\OneDrive\\Masaüstü\\KutuphaneOtomasyonu\\Service\\Service.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.210\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
